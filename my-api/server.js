@@ -44,19 +44,21 @@ data.posts = [
 ];
 
 data.users = [
+  
   {
     id: 'abc-1', 
-    username: "FaiqNaqiuddin",
-  },
-  {
-    id: 'abc-2', 
     username: "IqbalHaziq",
   },
   {
-    id: 'abc-3', 
+    id: 'abc-2', 
     username: "Nabil",
+  },
+  
+  {
+    id: 'abc-3', 
+    username: "Haffizan",
   }
-  ];
+ ];
 
 const currentUserId = 'abc-1';
 
